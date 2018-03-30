@@ -1,0 +1,14 @@
+C:\Users\Gamer\Desktop\C# projects\23-12-2017\Farajov's homework\Application 1\Application 1\obj\Debug\Application 1.csprojResolveAssemblyReference.cache
+C:\Users\Gamer\Desktop\C# projects\23-12-2017\Farajov's homework\Application 1\Application 1\obj\Debug\Application 1.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\C# projects\23-12-2017\Farajov's homework\Application 1\Application 1\bin\Debug\Application 1.exe.config
+C:\Users\Gamer\Desktop\C# projects\23-12-2017\Farajov's homework\Application 1\Application 1\bin\Debug\Application 1.exe
+C:\Users\Gamer\Desktop\C# projects\23-12-2017\Farajov's homework\Application 1\Application 1\bin\Debug\Application 1.pdb
+C:\Users\Gamer\Desktop\C# projects\23-12-2017\Farajov's homework\Application 1\Application 1\obj\Debug\Application 1.exe
+C:\Users\Gamer\Desktop\C# projects\23-12-2017\Farajov's homework\Application 1\Application 1\obj\Debug\Application 1.pdb
+C:\Users\Gamer\Desktop\C# projects\23-12-2017\Farajov's homework\Task 1\Application 1\bin\Debug\Application 1.exe.config
+C:\Users\Gamer\Desktop\C# projects\23-12-2017\Farajov's homework\Task 1\Application 1\bin\Debug\Application 1.exe
+C:\Users\Gamer\Desktop\C# projects\23-12-2017\Farajov's homework\Task 1\Application 1\bin\Debug\Application 1.pdb
+C:\Users\Gamer\Desktop\C# projects\23-12-2017\Farajov's homework\Task 1\Application 1\obj\Debug\Application 1.csprojResolveAssemblyReference.cache
+C:\Users\Gamer\Desktop\C# projects\23-12-2017\Farajov's homework\Task 1\Application 1\obj\Debug\Application 1.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\C# projects\23-12-2017\Farajov's homework\Task 1\Application 1\obj\Debug\Application 1.exe
+C:\Users\Gamer\Desktop\C# projects\23-12-2017\Farajov's homework\Task 1\Application 1\obj\Debug\Application 1.pdb

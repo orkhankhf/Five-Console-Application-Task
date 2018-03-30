@@ -1,0 +1,7 @@
+C:\Users\Gamer\Desktop\C# projects\23-12-2017\Farajov's homework\Task 3\Task 3\obj\Debug\Task 3.csprojResolveAssemblyReference.cache
+C:\Users\Gamer\Desktop\C# projects\23-12-2017\Farajov's homework\Task 3\Task 3\obj\Debug\Task 3.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\C# projects\23-12-2017\Farajov's homework\Task 3\Task 3\bin\Debug\Task 3.exe.config
+C:\Users\Gamer\Desktop\C# projects\23-12-2017\Farajov's homework\Task 3\Task 3\bin\Debug\Task 3.exe
+C:\Users\Gamer\Desktop\C# projects\23-12-2017\Farajov's homework\Task 3\Task 3\bin\Debug\Task 3.pdb
+C:\Users\Gamer\Desktop\C# projects\23-12-2017\Farajov's homework\Task 3\Task 3\obj\Debug\Task 3.exe
+C:\Users\Gamer\Desktop\C# projects\23-12-2017\Farajov's homework\Task 3\Task 3\obj\Debug\Task 3.pdb

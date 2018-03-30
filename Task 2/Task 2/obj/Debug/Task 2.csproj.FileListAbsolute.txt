@@ -1,0 +1,7 @@
+C:\Users\Gamer\Desktop\C# projects\23-12-2017\Farajov's homework\Task 2\Task 2\bin\Debug\Task 2.exe.config
+C:\Users\Gamer\Desktop\C# projects\23-12-2017\Farajov's homework\Task 2\Task 2\bin\Debug\Task 2.exe
+C:\Users\Gamer\Desktop\C# projects\23-12-2017\Farajov's homework\Task 2\Task 2\bin\Debug\Task 2.pdb
+C:\Users\Gamer\Desktop\C# projects\23-12-2017\Farajov's homework\Task 2\Task 2\obj\Debug\Task 2.csprojResolveAssemblyReference.cache
+C:\Users\Gamer\Desktop\C# projects\23-12-2017\Farajov's homework\Task 2\Task 2\obj\Debug\Task 2.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\C# projects\23-12-2017\Farajov's homework\Task 2\Task 2\obj\Debug\Task 2.exe
+C:\Users\Gamer\Desktop\C# projects\23-12-2017\Farajov's homework\Task 2\Task 2\obj\Debug\Task 2.pdb
